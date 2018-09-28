@@ -1,32 +1,23 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: Landing in a new position
+date: '2018-09-28T16:00:10-03:00'
+description: Here is how I became an assistant professor after a long stay in the US.
 tags:
-  - flavor
-  - tasting
+  - change
+  - development
+  - education
 ---
+![de palo alto a macul](/img/ajiesjfw.jpg)
 
-![flavor wheel](/img/flavor_wheel.jpg)
+They say it's important to write about your experiences and share what they mean to you. Luckily those experiences will resonate in others and some sort of contribution will be made.
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## From Palo Alto to Macul
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Less than a month ago I was living California for good. More than 8 years before I began a journey of learning and discovery to become someone who could contribute to the world from education. From early in my career I became passionate about teaching and learning. I started to notice that as a teacher I could affect the lives of so many for good or bad. I decided it needed to be for good and started looking at how I could do it. Besides teaching in a school, I was teaching other teachers and that seemed the best place to make my contribution. I was also very interested in how digital technologies could help in the process of teaching teachers.
 
-## What the updates mean to you
+In my doctoral program at the University of Michigan I had the wonderful guidance of educators who helped me see and notice, supported my discovery and fed my curiosity about how people learn, but especially about how teachers learn. Later in my postdoc at Stanford that interest in teacher education became more specific and focused on professional development for teachers. 
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+In my work as a doctoral student first and as a postdoc I was able to try ideas, collaborate with people and learn the craft of conducting research in the education field. I was always thinking about what was next and how I would confront such reality. In the cozy and manicured environment of Stanford I felt detached from that reality for a long time, growing in anxiety for what seemed so unpredictable.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Today, I am seating in my office at Universidad Católica and this position became suddenly clearer. At the beginning it was the welcoming faces that made me feel comfortable and then the realization that I can shape my story and be in charge of the future as an academic. There is a lot in front of me but there will always be.
