@@ -1,19 +1,22 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Florencia Gómez Zaccarelli
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Bio
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+I am assistant professor at the School of Education in Pontificia Universidad Católica de Chile. Until recently I was a postdoctoral researcher at the Stanford Graduate School of Education working at the Center to Support Excellence in Teaching (CSET). My research focuses on teacher learning, professional development, collaborative learning mediated by digital technologies and research methodologies that involve developing sustainable innovations in collaboration with practitioners.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Passions
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Working with others to make things happen. Collaborating to create joint ways to address problems of teaching and learning practice. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Projects
+
+* Problem Solving Cycle Project for mathematics teacher leaders in the San Francisco Unified School District. 
+* Improving Practice Together Project to develop capacity in the Santa Clara Unified School District to implement a model that will support teachers' facilitation of science discourse and argumentation in classrooms from 3-5 grade.
+
+### Last publication
+
+Gomez Zaccarelli, F., Schindler, A.-K., Borko, H., & Osborne, J. (2018). Learning from professional development: a case study of the challenges of enacting productive science discourse in the classroom. Professional Development in Education, 44(5), 721–737. https://doi.org/10.1080/19415257.2017.1423368
+
+###
