@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Hello
-image: /img/jumbotron.jpg
+image: /img/ajiesjfw.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
