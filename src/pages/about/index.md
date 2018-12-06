@@ -4,7 +4,7 @@ title: Florencia Gómez Zaccarelli
 ---
 ### Bio
 
-I am assistant professor in the Learning and Development Department at the Faculty of Education in the Pontificia Universidad Católica de Chile. Until recently I was a postdoctoral researcher at the Stanford Graduate School of Education working at the Center to Support Excellence in Teaching (CSET). My research focuses on teacher learning, professional development, collaborative learning mediated by digital technologies and research methodologies that involve developing sustainable innovations in collaboration with practitioners.
+I am assistant professor in the Learning and Development Department at the Faculty of Education in the Pontificia Universidad Católica de Chile. Until recently I was a postdoctoral researcher at the Stanford Graduate School of Education working at the Center to Support Excellence in Teaching (CSET). My research focuses on teacher learning, professional development, collaborative learning mediated by digital technologies and research methodologies that involve developing sustainable innovations in collaboration with practitioners. My current and forthcoming publications can be found in the Professional Development in Education journal, Journal of Science Teacher Education, Computers & Education and Elementary School Journal among others.
 
 ### Passions
 
