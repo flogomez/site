@@ -12,15 +12,13 @@ Working with others to make things happen. Collaborating to create joint ways to
 
 ### Recent and Current Projects
 
-* Project CLIC! Improving Science Learning by expanding Inquiry and Language Skills: Preparing an innovative intervention to reach underserved Latin American schools. (Facultad de Educación UC, Chile, and Hardvard Graduate School of Education. Funded by Santander Research Fund for Innovation and Education Systems, United States)
-* 2018-2019. Alianza escuela-universidad en la formación de educadores: generando prácticas inclusivas mediante la colaboración. (Facultad de Educación, Pontificia Universidad Católica de Chile. Financiado por Facultad de Educación UC, Chile)
-* 2016-present. Problem Solving Cycle Project for mathematics teacher leaders in the San Francisco Unified School District. (Graduate School of Education, Stanford University. Funded by National Science Foundation, United States)
-* 2017-2018. Improving Practice Together Project to develop capacity in the Santa Clara Unified School District to implement a model that will support teachers' facilitation of science discourse and argumentation in classrooms from 3-5 grade. (Graduate School of Education, Stanford University. Funded by National Science Foundation, United States)
+* Project CLIC! Improving Science Learning by expanding Inquiry and Language Skills: Preparing an innovative intervention to reach underserved Latin American schools. (Facultad de Educación UC, Chile, and Harvard Graduate School of Education. Funded by Santander Research Fund for Innovation and Education Systems, United States). 2019
+* Alianza escuela-universidad en la formación de educadores: generando prácticas inclusivas mediante la colaboración. (Facultad de Educación, Pontificia Universidad Católica de Chile. Financiado por Facultad de Educación UC, Chile). 2018-2019
+* Problem Solving Cycle Project for mathematics teacher leaders in the San Francisco Unified School District. (Graduate School of Education, Stanford University. Funded by National Science Foundation, United States). 2016-present.
+* Improving Practice Together Project to develop capacity in the Santa Clara Unified School District to implement a model that will support teachers' facilitation of science discourse and argumentation in classrooms from 3-5 grade. (Graduate School of Education, Stanford University. Funded by National Science Foundation, United States). 2017-2018
 
 ### Latest publication
 
 Gomez Zaccarelli, F., Schindler, A.-K., Borko, H., & Osborne, J. (2018). Learning from professional development: a case study of the challenges of enacting productive science discourse in the classroom. Professional Development in Education, 44(5), 721–737. https://doi.org/10.1080/19415257.2017.1423368
-
-
 
 ###
