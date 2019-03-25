@@ -19,6 +19,8 @@ Working with others to make things happen. Collaborating to create joint ways to
 
 ### Latest publication
 
+Goldin, S., O’Neill, M. K., Naik, S. S., & Gomez Zaccarelli, F. (2019). Supporting Students’ Learning Practices: Redefining Participation and Engagement. The Elementary School Journal, 119(3), 417–442. https://doi.org/10.1086/701654
+
 Osborne, J. F., Borko, H., Fishman, E., Gomez Zaccarelli, F., Berson, E., Busch, K. C., … Tseng, A. (2019). Impacts of a Practice-Based Professional Development Program on Elementary Teachers’ Facilitation of and Student Engagement With Scientific Argumentation. American Educational Research Journal, 000283121881205. https://doi.org/10.3102/0002831218812059
 
 Gomez Zaccarelli, F., Schindler, A.-K., Borko, H., & Osborne, J. (2018). Learning from professional development: a case study of the challenges of enacting productive science discourse in the classroom. Professional Development in Education, 44(5), 721–737. https://doi.org/10.1080/19415257.2017.1423368
